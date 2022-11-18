@@ -4,13 +4,13 @@
 
 **Développeur web junior, en formation ["Développement Web et Accessibilité](https://oclock.io/formations/developpeur-web-et-accessibilite)"**
 
-[Accueil](README.md) - [Projets](projet.md) - [CV](CV.md) - [contact](contact.md)
+[Accueil](README.md) - [Projets](projet.md) - [CV](CV.md) - [Contact](contact.md)
 
 ## Mes projets 
 
 
 |Client    |Dates    |Techonologie|Lien|
-|:--------:|:-------:|:----------:|:--:|
+|:--------:|:-------:|:----------:|:-----:|
 |Microsoft |2022-2023 |HTML, JavaSript|[Microsoft](https://www.microsoft.com/fr-fr)|
 |Kamoulox    |2022-2023 |KML  |[KML Projet](https://kmlproject.com/)|
 |Github    |2022-2023 |Gitbash    |[Github](https://github.com/)|
