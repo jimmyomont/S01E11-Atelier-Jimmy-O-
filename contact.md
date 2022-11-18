@@ -16,3 +16,5 @@ N'hésitez pas une seule seconde, contactez-moi!
 :necktie: [LinkedIn](https://fr.linkedin.com/in/jimmy-omont-141471166)
 
 :bird:[Twitter](https://twitter.com/jimmyomont)
+
+&copy; 2022 - Jimmy Omont - [Me contacter](mailto:jimmy.omont@gmail.com?)
