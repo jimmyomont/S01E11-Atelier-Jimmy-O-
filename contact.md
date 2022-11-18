@@ -4,7 +4,7 @@
 
 *Développeur web junior, en formation ["Développement Web et Accessibilité](https://oclock.io/formations/developpeur-web-et-accessibilite)"*
 
-[Accueil](README.md) -[Projets](projet.md) - [CV](CV.md) - [Contact](contact.md)
+[Accueil](README.md) - [Projets](projet.md) - [CV](CV.md) - [Contact](contact.md)
 
 # CONTACT
 N'hésitez pas une seule seconde, contactez-moi!
